@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @samuelleclerc
 - 👀 I’m interested in full-stack JavaScript develoment
-- 🌱 I’m currently learning the MERN stack
-- 💞️ I’m looking to collaborate on anything MERN-related
+- 🌱 I’m currently learning the MEVN stack
+- 💞️ I’m looking to collaborate on anything MEVN-related
 - 📫 How to reach me samuellaurentleclerc@gmail.com or https://www.linkedin.com/in/samuel-leclerc/
 
 <!---
